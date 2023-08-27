@@ -1,0 +1,34 @@
+.customize-table {
+  font-family: Arial, sans-serif;
+
+  --easy-table-border: 1px solid #fff;
+  --easy-table-border: 1px solid #fff;
+  --easy-table-row-border: 1px solid #dfe2f0;
+
+  --easy-table-header-font-size: 14px;
+  --easy-table-header-height: 50px;
+  --easy-table-header-font-color: #777779;
+  --easy-table-header-background-color: #f3f3f7;
+
+  --easy-table-header-item-padding: 10px 15px;
+
+  --easy-table-body-row-font-color: #737373;
+  --easy-table-body-row-background-color: #fff;
+  --easy-table-body-row-height: 50px;
+  --easy-table-body-row-font-size: 14px;
+
+  --easy-table-body-row-hover-background-color: #fff;
+
+  --easy-table-body-item-padding: 10px 15px;
+
+  --easy-table-rows-per-page-selector-width: 70px;
+  --easy-table-rows-per-page-selector-option-padding: 10px;
+  --easy-table-rows-per-page-selector-z-index: 1;
+
+  --easy-table-scrollbar-track-color: #2d3a4f;
+  --easy-table-scrollbar-color: #2d3a4f;
+  --easy-table-scrollbar-thumb-color: #4c5d7a;
+  --easy-table-scrollbar-corner-color: #2d3a4f;
+
+  --easy-table-loading-mask-background-color: #2d3a4f;
+}
